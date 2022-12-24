@@ -1,11 +1,9 @@
 ---
-name: 이름
+name: Goomango
 avatar: /static/images/프로필사진.png
-occupation: 타이틀
+occupation: 초보자
 company: 컴패니
-email: 이메일주소
+email: sgksg2@icloud.com
 linkedin: 링크드인주소
-github: 깃헙주소
+github: https//github.com/Goomango
 ---
-
-자기 소개하기

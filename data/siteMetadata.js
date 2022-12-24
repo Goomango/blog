@@ -1,6 +1,6 @@
 const siteMetadata = {
-  title: '',
-  author: '',
+  title: 'Goomango Blog',
+  author: 'Goomango',
   headerTitle: '',
   description: '',
   language: 'ko-KR',
@@ -9,8 +9,8 @@ const siteMetadata = {
   siteLogo: '/static/images/로고이름.png',
   image: '/static/images/프로필사진.png',
   socialBanner: '/static/images/social-banner.png',
-  email: '',
-  github: '',
+  email: 'sehail@naver.com',
+  github: 'https://github.com/Goomango',
   linkedin: '',
   locale: 'ko-KR',
   analytics: {
@@ -19,7 +19,7 @@ const siteMetadata = {
   comment: {
     provider: 'utterances',
     utterancesConfig: {
-      repo: '유저네임/레포네임',
+      repo: 'Goomango/blog',
       issueTerm: 'title',
       label: 'Comment 💬',
       theme: 'github-light',
